@@ -275,18 +275,3 @@ npm run build --report
 > mpvue-meituan 项目是作者大约使用了2周时间开源的一款小程序项目，项目中基本涵盖了企业开发中常用的技术要点，非常适合想学习小程序开发的小伙伴们参考学习。相信此项目能给小伙伴们带来不一样的收获。大家也可以加作者的mpvue小程序交流群交流学习(`QQ群号：694979037`)。
 > 
 > 当然，如果老铁们认为作者的开源项目还不错，也请点个 **`star`** 支持一下 ❤️❤️❤️❤️ ，也衷心的欢迎小伙伴们提些宝贵的意见和建议。
-
-**掘金专栏文章详解：[mpvue-meituan](https://juejin.im/post/5bbb6198f265da0ac962ba00)**
-
-**欢迎小伙伴们扫码进群**
-
-![mpvue](https://imgs-1257778377.cos.ap-shanghai.myqcloud.com/WechatIMG1127.jpeg)
-
-## 更多文章
-* 作者React Native开源项目OneM地址(按照企业开发标准搭建框架完成开发的)：**[https://github.com/guangqiang-liu/OneM](https://github.com/guangqiang-liu/OneM)**：欢迎小伙伴们 **star**
-* 作者简书主页：包含60多篇RN开发相关的技术文章[http://www.jianshu.com/u/023338566ca5](http://www.jianshu.com/u/023338566ca5) 欢迎小伙伴们：**多多关注**，**多多点赞**
-* 作者React Native QQ技术交流群：**620792950** 欢迎小伙伴进群交流学习
-
-## License
-
-**MIT**
